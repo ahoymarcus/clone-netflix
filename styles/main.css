@@ -58,6 +58,15 @@ header nav a:hover {
     align-items: flex-start;
 }
 
+.container {
+    margin-left: 15px;
+}
+
+.filme-principal .container {
+    width: 80%;
+}
+
+
 .filme-principal .descricao {
     margin-top: 10px;
     margin-bottom: 40px;
