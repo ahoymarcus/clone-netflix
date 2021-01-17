@@ -8,6 +8,7 @@
 	- Variáveis
 	- Flexbox
 	- Plugins Jquery
+	- Font Awesome
 	
 	Condutor do Curso: professor Felipe Aguiar
 
